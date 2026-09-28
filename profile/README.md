@@ -8,7 +8,7 @@ Each project is designed to stand on its own: small enough to understand, explic
 
 **Independent tools, working in concert.**
 
-[Chinese / 中文](README.zh-CN.md)
+[Chinese](README.zh-CN.md)
 
 ## Projects
 
