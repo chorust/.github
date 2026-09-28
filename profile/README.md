@@ -6,7 +6,7 @@ Chorust is an open-source organization building focused systems, data, and AI in
 
 Each project is designed to stand on its own: small enough to understand, explicit about its boundaries, and composable with the rest of the ecosystem.
 
-**Independent tools, working in concert.**
+**Each a voice, together a chorus.**
 
 [Chinese](README.zh-CN.md)
 
